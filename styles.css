@@ -1,0 +1,59 @@
+.first {
+	background-color: #dad6d6;
+	height: 200px;
+}
+
+.sec {
+	background-color: #dad6d6;
+	height: 200px;
+}
+
+.we {
+	margin-right: 70px;
+	margin-left: 70px
+}
+
+.ne {
+	margin-right: 70px;
+}
+
+.me {
+	margin-right: 70px;
+}
+
+.fourth {
+	background-color: #dad6d6;
+	height: 200px;
+}
+
+.lo {
+	margin-right: 70px;
+	margin-left: 70px;
+}
+
+.mo {
+	margin-right: 70px;
+}
+
+.no {
+	margin-right: 70px;
+}
+
+.sixth {
+	background-color: #dad6d6;
+	height: 200px;
+}
+
+h3 {
+	color: green;
+	font-family: sans-serif;
+}
+
+h2 {
+	color: white;
+	font-family: sans-serif;
+}
+
+body {
+	background-color: grey;
+}
